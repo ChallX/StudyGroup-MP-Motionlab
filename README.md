@@ -3,7 +3,7 @@
 Welcome to the **Mobile Programming Study Group Repository** by **Motionlab**! 🚀  
 This repository serves as a collection of all **materials, tasks, and projects** learned and completed throughout the study group sessions.  
 
-> “Learning never exhausts the mind — it empowers it.” 💡
+> “Every Movement Is Motion.” 💡
 
 ---
 
